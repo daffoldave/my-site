@@ -1,2 +1,6 @@
-# my-site
-my site! 
+---
+title: welcome!
+layout: default
+---
+
+# {{ page.title }} 
